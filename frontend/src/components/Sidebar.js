@@ -19,7 +19,7 @@ function Sidebar() {
     return (
         <div className="sidebar">
             <SidebarRow src={user.photoURL} title={user.displayName} />
-            <SidebarRow Icon={LocalHospitalIcon} title="Covid-19 information center" />
+            <a href="https://corona-numbers.web.app/"><SidebarRow Icon={LocalHospitalIcon} title="Covid-19 information center" /></a>
             {/* <SidebarRow Icon={EmojiFlagsIcon} title="Pages" /> */}
             <SidebarRow Icon={EmojiPeopleIcon} title="Friends" />
             <SidebarRow Icon={ChatIcon} title="Messenger" />
