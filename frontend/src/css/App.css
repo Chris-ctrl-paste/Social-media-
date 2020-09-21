@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+}
+.App {
+	background-color: #444444;
+}
+
+.app_body {
+	display: flex;
+}
+a {
+	text-decoration: none !important;
+	color: black;
+}
