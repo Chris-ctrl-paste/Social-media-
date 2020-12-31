@@ -5,5 +5,5 @@
 
 Uses firebase backend and database. Nothing extremely special. Facebook clone. IF YOU LOGIN, YOUR GMAIL WILL BE VISIBLE FOR ME.
 
-![Optional Text](./frontend/src/images/picture.jpg)
+![Optional Text](./frontend/src/images/picture.png)
 
