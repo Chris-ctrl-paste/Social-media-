@@ -3,4 +3,4 @@
 
 
 
-Uses firebase backend and database. Nothing extremely special.
+Uses firebase backend and database. Nothing extremely special. Facebook clone. IF YOU LOGIN, YOUR GMAIL WILL BE VISIBLE FOR ME.
